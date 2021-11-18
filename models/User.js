@@ -43,10 +43,10 @@ const UserSchema = new Schema(
   }
 );
 
-//Create Model For The User
+
 const User = model("User", UserSchema);
 
-//Add virtual for the Friend Count
+
 UserSchema.virtual("friendCount").get(function () {
   return this.friends.length;
 });

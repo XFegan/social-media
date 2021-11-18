@@ -102,7 +102,7 @@ const userController = {
                 .json({ message: "No user found with this friendId" });
               return;
             }
-            res.json({ message: "Successfully deleted the friend" });
+            res.json({ message: "Friend was succesfully deleted!" });
           })
           .catch((err) => res.json(err));
       })
