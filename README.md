@@ -20,6 +20,6 @@ To test or run the application:
 # License
   This project is license under the  MIT license.
 # Contributing
-​Xavier Fegan
+​Xavier Fegan this is was done in a study group and worked on with 3 other classmates!
 # Questions
 If any questions please contact me at [XFegan](https://github.com/XFegan) directly [xavierslf11@gmail.com](mailto:xavierslf11@gmail.com)
